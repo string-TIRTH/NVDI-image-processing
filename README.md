@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Name**: Tirth
 - **GitHub**: [string-TIRTH](https://github.com/string-TIRTH)
-- **Email**: your-email@example.com
+- **Email**: tirthprajapati26@gmail.com
 
 Feel free to reach out if you have any questions or suggestions!
 
