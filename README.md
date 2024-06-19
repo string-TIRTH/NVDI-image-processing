@@ -1,6 +1,6 @@
 # NVDI Image Processing
 
-![NVDI Image Processing](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index)
+[NVDI Image Processing](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index)
 
 ## Table of Contents
 
